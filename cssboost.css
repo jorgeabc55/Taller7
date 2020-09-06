@@ -1,0 +1,23 @@
+body{
+	background:#2c3e50;
+	color:white;
+}
+ .container {
+ background:white;
+ color:#585858;
+ width:80%;
+ height:750px;
+ -moz-border-radius:1em;
+ padding:20px;
+ border-radius: 5px;
+ margin:50px;
+ margin-left:110px; 
+}
+header{
+	
+
+	font-size:30px; 
+}
+.label{
+	color:#a94442;
+}
